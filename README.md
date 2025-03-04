@@ -11,7 +11,7 @@
 ---
 
 ## 🧐 About Me
-- 🎓 **Final Year Student | Data Science Enthusiast**
+- 🎓 **Data Science Enthusiast**
 - 🚀 **Passionate about AI, DevOps & Machine Learning**
 - 🔍 **Skilled in:** C, C++, Python, Java, OOPs, Machine Learning, Computer Networks, DBMS
 - 🔧 **DevOps Stack:** Docker | Kubernetes | Jenkins | GitHub | GitLab
