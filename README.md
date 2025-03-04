@@ -15,7 +15,7 @@
 - 🚀 **Passionate about AI, DevOps & Machine Learning**
 - 🔍 **Skilled in:** C, C++, Python, Java, OOPs, Machine Learning, Computer Networks, DBMS
 - 🔧 **DevOps Stack:** Docker | Kubernetes | Jenkins | GitHub | GitLab
-- 🌐 **Web Development:** React | Django | MongoDB | MySQL
+- 🌐 **Web Development:** Django | MongoDB | MySQL | HTML | CSS | Javascript 
 - 🎯 **Goal:** Building innovative AI & DevOps-based solutions
 
 ---
@@ -27,7 +27,7 @@
 3. **Improving Collaboration by Integrating Multiple Tools in DevOps**
 4. **AI-Based Medical Diagnosis Using CNN & Flask**  
 
-🔗 **Check my projects here:** [GitHub Repositories](https://github.com/abhishekalavandi?tab=repositories)
+🔗 **Check my projects here:** [GitHub Repositories](https://github.com/Abhisheksgithubrit)
 
 ---
 
@@ -63,42 +63,42 @@
 ---
 
 ## 📄 Resume  
-📥 **Download My Resume:** [Click Here](https://drive.google.com/your_resume_link) 📄  
+📥 **Download My Resume:** [Click Here](https://drive.google.com/file/d/1SkSRaraWm8KSkH6L6pgVt2C42xWaUunF/view?usp=drivesdk) 📄  
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats  
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=abhishekalavandi&show_icons=true&theme=radical" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekalavandi&theme=radical" />
+  <a href="https://github.com/abhishekalavandi">
+    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=abhishekalavandi&show_icons=true&theme=radical" />
+  </a>
 </p>
 
 ---
 
 ## 📊 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekalavandi&layout=compact&theme=radical" />
+  <a href="https://github.com/abhishekalavandi">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekalavandi&layout=compact&theme=radical" />
+  </a>
 </p>
+
 
 ---
 
-## 🌟 3D Contribution Graph
-<p align="center">
-  <img src="https://github.com/abhishekalavandi/abhishekalavandi/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
 ## 🎯 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/abhishekalavandi">
+  <a href="https://www.linkedin.com/in/abhishek-alavandi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/abhishekalavandi">
+  <a href="https://github.com/Abhisheksgithubrit">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:abhishekalavandi@example.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  <a href="mailto:abhialavandi@gmail.com">
+    <img src="https://mail.google.com/mail/u/0/#inbox" />
   </a>
 </p>
 
