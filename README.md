@@ -81,10 +81,6 @@
   </a>
 </p>
 
-## 🔥 My GitHub Contributions  
-![Snake animation](https://github.com/Abhisheksgithubrit/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 🎯 Fun Fact  
 > "The best way to predict the future is to invent it!" - Alan Kay 🚀  
