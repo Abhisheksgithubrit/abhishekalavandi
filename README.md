@@ -66,27 +66,6 @@
 📥 **Download My Resume:** [Click Here](https://drive.google.com/file/d/1SkSRaraWm8KSkH6L6pgVt2C42xWaUunF/view?usp=drivesdk) 📄  
 
 ---
-
-## 📈 GitHub Stats  
-<p align="center">
-  <a href="https://github.com/abhishekalavandi">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=abhishekalavandi&show_icons=true&theme=radical" />
-  </a>
-</p>
-
----
-
-## 📊 Most Used Languages
-<p align="center">
-  <a href="https://github.com/abhishekalavandi">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekalavandi&layout=compact&theme=radical" />
-  </a>
-</p>
-
-
----
-
-
 ---
 
 ## 🎯 Connect with Me
