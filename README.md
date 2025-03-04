@@ -81,6 +81,9 @@
   </a>
 </p>
 
+## 🔥 My GitHub Contributions  
+![Snake animation](https://github.com/abhishekalavandi/abhishekalavandi/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## 🎯 Fun Fact  
